@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Franko Stipanov
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React and Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: fstipanov@gmail.com
 
